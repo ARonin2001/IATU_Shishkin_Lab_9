@@ -13,7 +13,7 @@
 	2.3. Набор тест-кейсов  
 """
 
-import tkinter as tk
+import tkinter as tk 
 import random
 
 class TicTacToe:
